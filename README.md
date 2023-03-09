@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdale0321
 - 👀 I’m currently developing my interest for computer science into a career.
-- 🌱 I’m learning computer science fundamentals through edx Harvard online course and have a certificate from Code Academy for front end web development.
+- 🌱 I’m learning computer science fundamentals through edx Harvard online course and have a certificate from Free Code Camp for front end web development.
 - 💞️ I’m looking to build on projects related to AI and robotics. 
 - 📫 How to reach me -> sdale0321@gmail.com
 
