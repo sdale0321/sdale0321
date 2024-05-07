@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdale0321" alt="sdale0321" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Java, C++, React JS, and MYSQL**
+- 🌱 I’m currently learning **Python, Java, C++, Next JS, and MYSQL**
 
 - 📫 How to reach me **sdale0321@gmail.com**
 
